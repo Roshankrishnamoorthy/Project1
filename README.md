@@ -13,6 +13,7 @@ Machine learning techniques like L1 regularization, sometimes referred to as Las
 1.	Can eliminate less important features by setting their coefficients to zero
 2.	Sparse models: Produces simpler models with fewer active features
 3.	Interpretability: Easier to identify which features have the most impact
+
 **DISADVANTAGES:**
 1.	Instability: Can be unstable when features are highly correlated
 2.	Optimization challenges: Non-differentiable at zero, making optimization more difficult

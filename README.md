@@ -4,6 +4,7 @@
 Roshan Krishnamoorthy A20592056
 Nisha Mayilraj A20592055
 Nithish Kannan Kuppal Thulasiraman A20593857
+
 **L 1 REGULARIZATION**
 Machine learning techniques like L1 regularization, sometimes referred to as Lasso regularization, are used to stop overfitting. It functions by adjusting the loss function of the model by a penalty term that is determined by the absolute values of the model's coefficients.
 
